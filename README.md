@@ -1,2 +1,2 @@
 # Barzin
-BAR ARBETO
+BAR ABERTO
